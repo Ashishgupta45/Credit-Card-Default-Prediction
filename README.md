@@ -11,4 +11,4 @@ This project is aimed at predicting the case of customers default payments in Ta
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img target="_blank" src="https://images.app.goo.gl/kKFAyyDuFDW3WmS5A.png" width=1000; height=300>
+<img target="_blank" src="https://images.app.goo.gl/kKFAyyDuFDW3WmS5A" width=1000; height=300>
