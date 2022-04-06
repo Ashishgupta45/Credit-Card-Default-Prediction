@@ -5,7 +5,7 @@
 <img src="gif/spam detector.gif" alt="Animated gif pacman game" height="382px">
 </p>
 
-<p>I have developed a spam detector program in Python which classifies credit card defaulters.</p>
+<p>I have developed a credit card default classifier in Python using Random Forest Classifier.</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -23,6 +23,7 @@ This dataset contains information on default payments, demographic factors, cred
 
 <h2> :book: Dataset information:</h2>
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 There are 25 variables:
 
 * ID: ID of each client.
