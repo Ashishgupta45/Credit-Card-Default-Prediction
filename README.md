@@ -22,7 +22,7 @@ This dataset contains information on default payments, demographic factors, cred
 <img target="_blank" src="https://user-images.githubusercontent.com/32620288/141337653-a5d66ee6-da22-4f2d-adba-c14f2d343329.png" width=1000; height=300>
 
 <h2> :book: Dataset information:</h2>
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 There are 25 variables:
 
 * ID: ID of each client.
@@ -97,7 +97,7 @@ Technology and tools wise this project covers,
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-< Your Name > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+< Ashish Gupta > | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast | Statistic Student | Storyteller
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
