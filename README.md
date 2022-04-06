@@ -2,7 +2,7 @@
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 <p align="center"> 
-<img src="gif/spam detector.gif" alt="Animated gif pacman game" height="382px">
+<img src="https://i.imgur.com/1RSZNsh.gif" alt="Animated gif pacman game" height="382px">
 </p>
 
 <p>I have developed a credit card default classifier in Python using Random Forest Classifier.</p>
@@ -22,7 +22,6 @@ This dataset contains information on default payments, demographic factors, cred
 <img target="_blank" src="https://user-images.githubusercontent.com/32620288/141337653-a5d66ee6-da22-4f2d-adba-c14f2d343329.png" width=1000; height=300>
 
 <h2> :book: Dataset information:</h2>
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 There are 25 variables:
 
