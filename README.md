@@ -104,7 +104,7 @@ Technology and tools wise this project covers,
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-ashishgupta45?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishgupta45)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Ashishgupta45?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashishgupta45)
-[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/almabetter)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://ashishgupta45.medium.com)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :book: Technologies Used::</h2>
